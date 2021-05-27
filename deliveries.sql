@@ -20,6 +20,8 @@ SET time_zone = "+00:00";
 --
 -- データベース: `intern`
 --
+CREATE DATABASE `intern`;
+USE `intern`;
 
 -- --------------------------------------------------------
 
